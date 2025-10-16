@@ -17,7 +17,9 @@ Total Energy Consumption (TWh)	Per Capita Energy Use (kWh)	Renewable Energy Shar
 	UK	
 	Germany	
 	USA	
-	Japan
+	Japan 
 
+# Total Energy Consumption Trend & Total Energy Consumption 
+<img width="1584" height="1226" alt="energy consumption trend by  type" src="https://github.com/user-attachments/assets/39dac03a-f8b2-4536-9432-2f392dc087db" />
 
 
