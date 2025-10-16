@@ -56,6 +56,24 @@ Total Energy Consumption (TWh)	Per Capita Energy Use (kWh)	Renewable Energy Shar
 <img width="1184" height="584" alt="Energy use by sectors 2" src="https://github.com/user-attachments/assets/7d80653b-44f3-45c7-989b-468ef7fde30e" />
 
 
+# Energy Price Index by Countries
+
+<img width="1183" height="928" alt="Energy Price Index by Countries" src="https://github.com/user-attachments/assets/140a4a25-33ac-4bf3-b2bb-f4bc859ccd54" />
+
+# Total Carbon Emissions by Countries
+<img width="1243" height="765" alt="Total Carbon Emissions by Countries" src="https://github.com/user-attachments/assets/929e0bb8-a1a9-418c-8f8d-3d85c9d70ce4" />
+
+# Consumption/Mix Trends by Type - Global Average Over Time
+
+<img width="1382" height="684" alt="Consumption Mix Trends by Type  Global Average Over Time" src="https://github.com/user-attachments/assets/47b48c04-394e-4a16-9459-34f00bb54f48" />
+
+# Global Energy Mix (Average %) - Renewables vs Fossils
+
+<img width="1382" height="684" alt="Global Energy Mix Re vs fossil" src="https://github.com/user-attachments/assets/d0fee5f5-f40e-4cc2-850a-a4863e6b032d" />
+
+									#  RENEWABLE ENERGY TRENDS
+
+
 
 
 
