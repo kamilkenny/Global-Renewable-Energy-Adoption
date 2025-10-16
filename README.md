@@ -79,7 +79,7 @@ Total Energy Consumption (TWh)	Per Capita Energy Use (kWh)	Renewable Energy Shar
 
 # RENEWABLE ENERGY TRENDS
 
-# Fast Adopters 
+# Fast Adopters of Renewable Energy by Countries
 <img width="1990" height="1154" alt="Fast Adopter" src="https://github.com/user-attachments/assets/abbc13ba-7fcd-4ed2-8ddc-c6a8dd1cb334" />
 
 
