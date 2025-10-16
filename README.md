@@ -29,8 +29,9 @@ Total Energy Consumption (TWh)	Per Capita Energy Use (kWh)	Renewable Energy Shar
 
 <img width="591" height="509" alt="Bar  Plot of Total Energy Consumption by Countries" src="https://github.com/user-attachments/assets/cb94b141-0256-4cf0-b07e-b36e53b228c6" />
 
-# Bar  Plot of Total Energy Consumption by Countries
-<img width="591" height="509" alt="Bar  Plot of Total Energy Consumption by Countries" src="https://github.com/user-attachments/assets/6a369a71-daff-4ca0-8eb6-d7d0e6da46b2" />
+# Bar Plot of Per Capital Energy Use by Countries
+
+<img width="601" height="509" alt="Bar Plot of Per Capital Energy Use by Countries" src="https://github.com/user-attachments/assets/70dc7c78-9d57-4df5-beab-8e2a121cf53a" />
 
 
 
