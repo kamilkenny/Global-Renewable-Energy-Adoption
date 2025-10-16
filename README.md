@@ -155,3 +155,21 @@ Total Energy Consumption (TWh)	Per Capita Energy Use (kWh)	Renewable Energy Shar
 # 🔭 Emerging to Watch:
    • Canada: Monitor closely - +3.3% CAGR from low base
 
+   # DEEP DIVE FAST GROWING COUNTRIES IN RENEWABLE ENERGY ADOPTION
+
+   <img width="1946" height="788" alt="DEEP DIVE FAST GROWING COUNTRIES IN RENEWABLE ENERGY ADOPTION" src="https://github.com/user-attachments/assets/632eced5-0c17-487c-b9c1-581611a5c48f" />
+
+# 📊 FAST GROWING STARS ANALYSIS:
+   • Average CAGR: 1.89%
+   • Average Current Share: 58.3%
+   • Growth Range: -2.28% to 4.73%
+
+# 🎯 STRATEGIC OPPORTUNITIES:
+   1. Brazil: +4.7% CAGR
+      Current: 75.5% → Projected 3-year: 86.3%
+   2. Germany: +3.8% CAGR
+      Current: 83.5% → Projected 3-year: 93.1%
+   3. Australia: +3.5% CAGR
+      Current: 66.5% → Projected 3-year: 73.6%
+   4. Canada: +3.3% CAGR
+      Current: 26.2% → Projected 3-year: 28.7%
