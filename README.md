@@ -89,7 +89,7 @@ Total Energy Consumption (TWh)	Per Capita Energy Use (kWh)	Renewable Energy Shar
 <img width="1789" height="1180" alt="Re Strategic Countries Insights" src="https://github.com/user-attachments/assets/506afd73-0103-43c5-acc6-f39987206a0a" />
 
 ================================================================================
-# 🎯 EXECUTIVE SUMMARY: ACTIONABLE INSIGHTS
+# 🎯 ACTIONABLE INSIGHTS
 ================================================================================
 
 # 📈 OVERVIEW:
