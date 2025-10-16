@@ -19,7 +19,7 @@ Total Energy Consumption (TWh)	Per Capita Energy Use (kWh)	Renewable Energy Shar
 	USA	
 	Japan 
 
-# Total Energy Consumption Trend 
+# Total Energy Consumption Trend over Time
 
 
 <img width="1253" height="710" alt="total energy consumption" src="https://github.com/user-attachments/assets/c6a550f9-1528-44d9-adeb-2c89eaf2db1b" />
