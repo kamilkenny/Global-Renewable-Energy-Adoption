@@ -155,7 +155,7 @@ Total Energy Consumption (TWh)	Per Capita Energy Use (kWh)	Renewable Energy Shar
 # 🔭 Emerging to Watch:
    • Canada: Monitor closely - +3.3% CAGR from low base
 
-   # DEEP DIVE FAST GROWING COUNTRIES IN RENEWABLE ENERGY ADOPTION
+   # DEEP DIVE: FAST GROWING COUNTRIES IN RENEWABLE ENERGY ADOPTION
 
    <img width="1946" height="788" alt="DEEP DIVE FAST GROWING COUNTRIES IN RENEWABLE ENERGY ADOPTION" src="https://github.com/user-attachments/assets/632eced5-0c17-487c-b9c1-581611a5c48f" />
 
@@ -173,3 +173,40 @@ Total Energy Consumption (TWh)	Per Capita Energy Use (kWh)	Renewable Energy Shar
       Current: 66.5% → Projected 3-year: 73.6%
    4. Canada: +3.3% CAGR
       Current: 26.2% → Projected 3-year: 28.7%
+
+# DEEP DIVE: LEADERS WITH MOMENTUM
+
+<img width="1998" height="784" alt="LEADERS WITH MOMENTUM" src="https://github.com/user-attachments/assets/36900b7a-f5f3-44f6-8489-32812006354b" />
+
+
+# 📊 LEADERS WITH MOMENTUM ANALYSIS:
+   • Average Renewable Share: 67.0%
+   • Average Recent Growth: 12.90%/year
+   • Highest Achiever: Germany (83.5%)
+
+# 🎯 BEST PRACTICE AREAS:
+   1. Germany:
+      • 83.5% renewable share
+      • +7.4%/year recent growth
+      • +3.8% long-term CAGR
+   2. Russia:
+      • 71.6% renewable share
+      • +27.1%/year recent growth
+      • -0.9% long-term CAGR
+   3. Australia:
+      • 66.5% renewable share
+      • +12.9%/year recent growth
+      • +3.5% long-term CAGR
+
+# DEEP DIVE: EMERGING SUCCESS STORIES
+<img width="1948" height="788" alt="EMERGING SUCCESS STORIES" src="https://github.com/user-attachments/assets/2bfc8d85-707c-4477-849d-92adac1e71a5" />
+
+# 📊 EMERGING SUCCESS STORIES ANALYSIS:
+   • Average Starting Share: 12.1%
+   • Average Current Share: 26.2%
+   • Average CAGR: 3.26%
+
+# 🎯 EMERGING OPPORTUNITIES:
+   1. Canada:
+      • Growth: 12.1% → 26.2%
+      • +3.3% CAGR (2.2x growth multiplier)
