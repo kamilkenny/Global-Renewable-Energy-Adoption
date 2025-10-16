@@ -51,6 +51,12 @@ Total Energy Consumption (TWh)	Per Capita Energy Use (kWh)	Renewable Energy Shar
 <img width="586" height="509" alt="Bar Plot of Total Energy Price Index by Countries" src="https://github.com/user-attachments/assets/b206f8a0-5a5e-41d8-affb-452114e2864f" />
 
 
+# Energy use by Sectors
+<img width="1184" height="584" alt="Energy use by sectors" src="https://github.com/user-attachments/assets/b89dae32-0fe8-4803-907e-a38ad190b418" />
+<img width="1184" height="584" alt="Energy use by sectors 2" src="https://github.com/user-attachments/assets/7d80653b-44f3-45c7-989b-468ef7fde30e" />
+
+
+
 
 
 
