@@ -22,4 +22,7 @@ Total Energy Consumption (TWh)	Per Capita Energy Use (kWh)	Renewable Energy Shar
 # Total Energy Consumption Trend & Total Energy Consumption 
 <img width="1584" height="1226" alt="energy consumption trend by  type" src="https://github.com/user-attachments/assets/39dac03a-f8b2-4536-9432-2f392dc087db" />
 
+<img width="1253" height="710" alt="total energy consumption" src="https://github.com/user-attachments/assets/8758dc96-3fe9-493f-a483-741ba0fbfd80" />
+
+
 
