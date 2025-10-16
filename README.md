@@ -210,3 +210,36 @@ Total Energy Consumption (TWh)	Per Capita Energy Use (kWh)	Renewable Energy Shar
    1. Canada:
       • Growth: 12.1% → 26.2%
       • +3.3% CAGR (2.2x growth multiplier)
+
+
+# STRATEGIC COUNTRIES POSITIONING MATRIX
+
+<img width="1591" height="1189" alt="STRATEGIC COUNTRIES POSITIONING MATRIX" src="https://github.com/user-attachments/assets/6d728f93-9664-4ebe-adbb-b574ddef6fa3" />
+# 🎯 CREATING STRATEGIC POSITIONING MATRIX...
+
+# 📈 Quadrant Distribution:
+  • Champions: 3 countries (30.0%)
+  • Laggards: 3 countries (30.0%)
+  • Emerging Leaders: 2 countries (20.0%)
+  • Established Leaders: 2 countries (20.0%)
+
+# RENEWABLE ENERGY GROTH RATE OF COUNTRIES 
+
+<img width="1387" height="989" alt="RENEWABLE ENERGY GROTH RATE OF COUNTRIES" src="https://github.com/user-attachments/assets/69b91137-e290-48a6-9c88-e51b596cabf8" />
+
+# 🎯 KEY INSIGHTS FROM THIS VISUALIZATION:
+# 📈 Top Performers:
+   • Average CAGR: +0.42%
+   • Average current renewable share: 52.0%
+   • Growth range: -8.64% to 4.73%
+
+# 📉 Bottom Performers:
+   • Average CAGR: +0.42%
+   • Average current renewable share: 52.0%
+   • Growth range: -8.64% to 4.73%
+
+# 🏆 STANDOUT COUNTRIES:
+   • Fastest growing: Brazil (+4.73% CAGR)
+   • Currently at: 75.5% renewable share
+   • Slowest growing: UK (-8.64% CAGR)
+   • Currently at: 6.9% renewable share
