@@ -13,7 +13,7 @@ Total Energy Consumption (TWh)	Per Capita Energy Use (kWh)	Renewable Energy Shar
 	Brazil	
 	Australia	
  	India	
-  Canada	
+    Canada	
 	UK	
 	Germany	
 	USA	
