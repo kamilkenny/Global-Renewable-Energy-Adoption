@@ -71,7 +71,7 @@ Total Energy Consumption (TWh)	Per Capita Energy Use (kWh)	Renewable Energy Shar
 
 <img width="1382" height="684" alt="Global Energy Mix Re vs fossil" src="https://github.com/user-attachments/assets/d0fee5f5-f40e-4cc2-850a-a4863e6b032d" />
 
-									#  RENEWABLE ENERGY TRENDS
+# RENEWABLE ENERGY TRENDS
 
 
 
