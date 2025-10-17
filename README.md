@@ -91,7 +91,9 @@ Energy Price Index (USD/kW)
 <img width="1382" height="684" alt="Global Energy Mix Re vs fossil" src="https://github.com/user-attachments/assets/d0fee5f5-f40e-4cc2-850a-a4863e6b032d" />
 
 
+# Countries Driving the Drop in Total Energy TWh 
 
+<img width="1184" height="584" alt="download" src="https://github.com/user-attachments/assets/e97fc8da-1269-459a-9b1b-a67ed0efc690" />
 
 
 
@@ -283,3 +285,15 @@ Data Distribution of Fossil Fuel Share
 <img width="571" height="455" alt="download" src="https://github.com/user-attachments/assets/9b12c4e4-9950-4150-a0a0-b5b55c87ffad" />
 Data Distribution of Co2 Emmission 
 <img width="571" height="455" alt="download" src="https://github.com/user-attachments/assets/0c3915fa-9be4-4715-b99d-15f5e4e5e883" />
+
+# ENERGY CONSUMPTION TRENDS BY TYPE (Individual Scales)
+
+<img width="1584" height="1226" alt="download" src="https://github.com/user-attachments/assets/d8f40856-85f6-4492-9533-010e6213f849" />
+
+
+# ENERGY PRICE INDEX BY COUNTRY 
+<img width="1183" height="928" alt="download" src="https://github.com/user-attachments/assets/47bda18e-0c45-4fb0-a761-25726334977b" />
+# ENERGY PRICE INDEX BY OVER TIME - GLOBAL AVERAGE WITH 5 YEARS MOVING AVERAGE 
+<img width="1182" height="584" alt="download" src="https://github.com/user-attachments/assets/c7ab765d-43c4-4ddb-89d7-a20ad84e7829" />
+
+
