@@ -266,7 +266,8 @@ Energy Price Index (USD/kW)
 # DATA DISTRIBUTION/FREQUENCY OVER TIME 
 Data Distribution of Years
 
-<img width="585" height="455" alt="download" src="https://github.com/user-attachments/assets/608b6a79-4815-4a3e-a634-129c8cda9a3f" />
+<img width="585" height="455" alt="download" src="https://github.com/user-attachments/assets/608b6a79-4815-4a3e-a634-129c8cda9a3f" /> <img width="571" height="455" alt="download" src="https://github.com/user-attachments/assets/a0b9f7f4-43b7-4476-a53d-c8fc84bc9aac" />
+Data Distribution of Per Capital (kwh)
 Data Distribution of Total Energy (twh)
 
 <img width="571" height="455" alt="download" src="https://github.com/user-attachments/assets/a0b9f7f4-43b7-4476-a53d-c8fc84bc9aac" />
