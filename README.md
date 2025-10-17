@@ -1,4 +1,6 @@
 # Global Renewable Energy Adoption: Strategic Analysis & Country-Specific Action Plan
+RESEARCHER - Kamil, Ridwan Kehinde
+Data Sources - IEA
 
 
 # Executive Summary
