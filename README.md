@@ -262,6 +262,10 @@ Energy Price Index (USD/kW)
    • Currently at: 75.5% renewable share
    • Slowest growing: UK (-8.64% CAGR)
    • Currently at: 6.9% renewable share
+# CARBON INTENSITY ACROSS RENEWABLE-SHARE QUINTILES
+
+<img width="567" height="455" alt="download" src="https://github.com/user-attachments/assets/904850de-b98e-457b-8d78-91b24896972b" />
+
 
 # DATA DISTRIBUTION/FREQUENCY OVER TIME 
 Data Distribution of Years
