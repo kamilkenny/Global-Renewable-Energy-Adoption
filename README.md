@@ -264,15 +264,15 @@ Energy Price Index (USD/kW)
    • Currently at: 6.9% renewable share
 
 # DATA DISTRIBUTION/FREQUENCY OVER TIME 
-										Data Distribution of Years
+Data Distribution of Years
 <img width="585" height="455" alt="download" src="https://github.com/user-attachments/assets/608b6a79-4815-4a3e-a634-129c8cda9a3f" />
-										Data Distribution of Total Energy (twh)
+Data Distribution of Total Energy (twh)
 <img width="571" height="455" alt="download" src="https://github.com/user-attachments/assets/a0b9f7f4-43b7-4476-a53d-c8fc84bc9aac" />
-										Data Distribution of Per Capital (kwh)
+Data Distribution of Per Capital (kwh)
 <img width="571" height="455" alt="download" src="https://github.com/user-attachments/assets/2b674357-4604-4a17-a5d9-124d188b1f1d" />
-										Data Distribution of Renewable Share
+Data Distribution of Renewable Share
 <img width="571" height="455" alt="download" src="https://github.com/user-attachments/assets/96f6d9df-06a1-4bb7-bb2d-7542d7c38174" />
-										Data Distribution of Fossil Fuel Share
+Data Distribution of Fossil Fuel Share
 <img width="571" height="455" alt="download" src="https://github.com/user-attachments/assets/9b12c4e4-9950-4150-a0a0-b5b55c87ffad" />
-										Data Distribution of Co2 Emmission 
+Data Distribution of Co2 Emmission 
 <img width="571" height="455" alt="download" src="https://github.com/user-attachments/assets/0c3915fa-9be4-4715-b99d-15f5e4e5e883" />
