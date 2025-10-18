@@ -2,7 +2,7 @@
 
 RESEARCHER - Kamil, Ridwan Kehinde
 
-# Data Sources  Source: 
+# Data Sources: 
 
 World Energy Statistics (2000–2024), and IEA Energy Statistics Data
 
