@@ -295,6 +295,7 @@ Data Distribution of Co2 Emmission
 
 # ENERGY PRICE INDEX BY COUNTRY 
 <img width="1183" height="928" alt="download" src="https://github.com/user-attachments/assets/47bda18e-0c45-4fb0-a761-25726334977b" />
+
 # ENERGY PRICE INDEX BY OVER TIME - GLOBAL AVERAGE WITH 5 YEARS MOVING AVERAGE 
 <img width="1182" height="584" alt="download" src="https://github.com/user-attachments/assets/c7ab765d-43c4-4ddb-89d7-a20ad84e7829" />
 
