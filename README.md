@@ -3,8 +3,15 @@
 RESEARCHER - Kamil, Ridwan Kehinde
 
 # Data Sources  Source: 
+
 World Energy Statistics (2000–2024), and IEA Energy Statistics Data
+
+
+
 https://www.oecd.org/en/publications/world-energy-statistics_25183885.html
+
+and 
+
 https://www.iea.org/data-and-statistics/data-tools/energy-statistics-data-browser?country=WORLD&fuel=Energy%20supply&indicator=TESbySource
 
 
