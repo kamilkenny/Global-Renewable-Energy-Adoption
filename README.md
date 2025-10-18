@@ -55,9 +55,14 @@ Energy Price Index (USD/kW)
 
 
 <img width="1253" height="710" alt="total energy consumption" src="https://github.com/user-attachments/assets/c6a550f9-1528-44d9-adeb-2c89eaf2db1b" />
-<img width="589" height="455" alt="download" src="https://github.com/user-attachments/assets/ab699757-9366-4fcb-8346-cfb8e31a19fe" />
+<img width="<img width="833" height="511" alt="top countries by energy consumption" src="https://github.com/user-attachments/assets/5e5c5d0e-f73c-48e9-937f-f6948fe1ccff" />
+589" height="455" alt="download" src="https://github.com/user-attachments/assets/ab699757-9366-4fcb-8346-cfb8e31a19fe" />
 <img width="576" height="455" alt="download" src="https://github.com/user-attachments/assets/644d9d24-ac2c-4567-bf95-b62b0edbf7d4" />
 <img width="598" height="455" alt="download" src="https://github.com/user-attachments/assets/8d18be9d-b66e-485e-9723-63fa7d1c778e" />
+
+# Top Countries by Energy Consumption
+
+<img width="1201" height="701" alt="top countries by energy consumption" src="https://github.com/user-attachments/assets/4411af89-da03-4664-ae8f-106783ebfc3b" />
 
 
 # Bar  Plot of Total Energy Consumption by Countries
@@ -313,5 +318,6 @@ Data Distribution of Co2 Emmission
 
 # ENERGY PRICE INDEX BY OVER TIME - GLOBAL AVERAGE WITH 5 YEARS MOVING AVERAGE 
 <img width="1182" height="584" alt="download" src="https://github.com/user-attachments/assets/c7ab765d-43c4-4ddb-89d7-a20ad84e7829" />
+<img width="1255" height="705" alt="GLOBAL AVERAGE WITH 5 YEARS MOVING AVERAGE" src="https://github.com/user-attachments/assets/7a1e92ca-3342-4ac2-8341-28e4379d21fb" />
 
 
