@@ -1,3 +1,5 @@
+![673bfd844d60be001dea9757 (1)](https://github.com/user-attachments/assets/b2341299-4845-4ccd-bf3f-670f7ad5d950)
+
 # GLOBAL RENEWABLE ENERGY ADOPTION: STRATEGIC ANALYSIS & COUNTRY-SPECIFIC ACTION PLAN
 
 RESEARCHER - Kamil, Ridwan Kehinde
