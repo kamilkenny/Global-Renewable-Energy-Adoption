@@ -1,4 +1,4 @@
-# Global Renewable Energy Adoption: Strategic Analysis & Country-Specific Action Plan
+# GLOBAL RENEWABLE ENERGY ADOPTION: STRATEGIC ANALYSIS & COUNTRY-SPECIFIC ACTION PLAN
 
 RESEARCHER - Kamil, Ridwan Kehinde
 
