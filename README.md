@@ -62,7 +62,7 @@ Energy Price Index (USD/kW)
 
 <img width="<img width="833" height="511" alt="top countries by energy consumption" src="https://github.com/user-attachments/assets/5e5c5d0e-f73c-48e9-937f-f6948fe1ccff" />
 
-<img width="598" height="455" alt="download" src="https://github.com/user-attachments/assets/8d18be9d-b66e-485e-9723-63fa7d1c778e" />
+
 
 # Top Countries by Energy Consumption
 
