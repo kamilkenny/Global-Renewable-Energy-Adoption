@@ -59,10 +59,9 @@ Energy Price Index (USD/kW)
 # Total Energy Consumption/Emmission/Share Trend Over Time
 
 
-<img width="1253" height="710" alt="total energy consumption" src="https://github.com/user-attachments/assets/c6a550f9-1528-44d9-adeb-2c89eaf2db1b" />
+
 <img width="<img width="833" height="511" alt="top countries by energy consumption" src="https://github.com/user-attachments/assets/5e5c5d0e-f73c-48e9-937f-f6948fe1ccff" />
-589" height="455" alt="download" src="https://github.com/user-attachments/assets/ab699757-9366-4fcb-8346-cfb8e31a19fe" />
-<img width="576" height="455" alt="download" src="https://github.com/user-attachments/assets/644d9d24-ac2c-4567-bf95-b62b0edbf7d4" />
+
 <img width="598" height="455" alt="download" src="https://github.com/user-attachments/assets/8d18be9d-b66e-485e-9723-63fa7d1c778e" />
 
 # Top Countries by Energy Consumption
