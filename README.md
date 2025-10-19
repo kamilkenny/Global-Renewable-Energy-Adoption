@@ -56,7 +56,7 @@ Energy Price Index (USD/kW)
 	USA	
 	Japan 
 
-# Total Energy Consumption/Emmission/Share Trend Over Time
+# Total Countries Energy Consumption/Emmission/Share Trend Over Time
 
 
 <img width="1201" height="701" alt="top countries by energy consumption" src="https://github.com/user-attachments/assets/4411af89-da03-4664-ae8f-106783ebfc3b" />
