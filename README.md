@@ -1,4 +1,7 @@
-![673bfd844d60be001dea9757 (1)](https://github.com/user-attachments/assets/b2341299-4845-4ccd-bf3f-670f7ad5d950)
+
+
+![673bfd844d60be001dea9757 (1)](https://github.com/user-attachments/assets/24012a1c-f437-4844-abf8-78f0c0fe1018)
+
 
 # GLOBAL RENEWABLE ENERGY ADOPTION: STRATEGIC ANALYSIS & COUNTRY-SPECIFIC ACTION PLAN
 
